@@ -37,6 +37,7 @@ function App() {
       <HowToBecomeAStudent />
       <Form />
       <Footer />
+      
     </div>
   );
 }
